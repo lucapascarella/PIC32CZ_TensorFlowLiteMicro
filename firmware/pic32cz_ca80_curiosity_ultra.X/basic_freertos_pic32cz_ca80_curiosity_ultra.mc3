@@ -852,7 +852,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_AVGPOOL_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -865,7 +865,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_COMMON_TABLES_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -878,7 +878,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_COMMON_TABLES_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -891,7 +891,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONCATENATION_S8_W_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -904,7 +904,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONCATENATION_S8_X_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -917,7 +917,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONCATENATION_S8_Y_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -930,7 +930,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONCATENATION_S8_Z_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -943,7 +943,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONST_STRUCTS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -956,7 +956,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONST_STRUCTS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -969,7 +969,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_1X1_HWC_Q7_FAST_NONSQUARE_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -982,7 +982,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_1X1_S8_FAST_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -995,7 +995,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_1_X_N_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1008,7 +1008,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q15_BASIC_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1021,7 +1021,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q15_FAST_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1034,7 +1034,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q15_FAST_NONSQUARE_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1047,7 +1047,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q7_BASIC_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1060,7 +1060,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q7_BASIC_NONSQUARE_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1073,7 +1073,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q7_FAST_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1086,7 +1086,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q7_FAST_NONSQUARE_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1099,7 +1099,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_HWC_Q7_RGB_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1112,7 +1112,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1125,7 +1125,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_CONVOLVE_WRAPPER_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1138,7 +1138,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_CONV_3X3_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1151,7 +1151,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_CONV_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1164,7 +1164,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_CONV_S8_OPT_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1177,7 +1177,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_CONV_U8_BASIC_VER1_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1190,7 +1190,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_CONV_WRAPPER_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1203,7 +1203,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_SEPARABLE_CONV_HWC_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1216,7 +1216,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_DEPTHWISE_SEPARABLE_CONV_HWC_Q7_NONSQUARE_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1229,7 +1229,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_ELEMENTWISE_ADD_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1242,7 +1242,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_ELEMENTWISE_MUL_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1255,7 +1255,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_MAT_Q7_VEC_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1268,7 +1268,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_MAT_Q7_VEC_Q15_OPT_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1281,7 +1281,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1294,7 +1294,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_Q15_OPT_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1307,7 +1307,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1320,7 +1320,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_Q7_OPT_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1333,7 +1333,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_FULLY_CONNECTED_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1346,7 +1346,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_HELIUM_UTILS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1359,7 +1359,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MATH_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1372,7 +1372,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MATH_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1385,7 +1385,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MATH_MEMORY_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1398,7 +1398,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MATH_TYPES_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1411,7 +1411,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MATH_TYPES_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1424,7 +1424,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MAX_POOL_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1437,7 +1437,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MVE_TABLES_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1450,7 +1450,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_MVE_TABLES_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1463,7 +1463,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NNFUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1476,7 +1476,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NNSUPPORTFUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1489,7 +1489,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NNTABLES_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1502,7 +1502,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_ACCUMULATE_Q7_TO_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1515,7 +1515,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_ACTIVATIONS_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1528,7 +1528,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_ACTIVATIONS_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1541,7 +1541,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_ADD_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1554,7 +1554,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_DEPTHWISE_CONV_NT_T_PADDED_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1567,7 +1567,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_DEPTHWISE_CONV_NT_T_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1580,7 +1580,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_DEPTHWISE_CONV_S8_CORE_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1593,7 +1593,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MULT_KERNEL_Q7_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1606,7 +1606,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MULT_KERNEL_Q7_Q15_REORDERED_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1619,7 +1619,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MULT_KERNEL_S8_S16_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1632,7 +1632,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MULT_KERNEL_S8_S16_REORDERED_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1645,7 +1645,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MULT_NT_T_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1658,7 +1658,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MULT_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1671,7 +1671,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MUL_CORE_1X_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1684,7 +1684,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MAT_MUL_CORE_4X_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1697,7 +1697,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MULT_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1710,7 +1710,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_MULT_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1723,7 +1723,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_TABLES_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1736,7 +1736,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_TYPES_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1749,7 +1749,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_VEC_MAT_MULT_T_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1762,7 +1762,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_NN_VEC_MAT_MULT_T_SVDF_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1775,7 +1775,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_POOL_Q7_HWC_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1788,7 +1788,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_Q7_TO_Q15_NO_SHIFT_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1801,7 +1801,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_Q7_TO_Q15_REORDERED_NO_SHIFT_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1814,7 +1814,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_Q7_TO_Q15_REORDERED_WITH_OFFSET_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1827,7 +1827,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_Q7_TO_Q15_WITH_OFFSET_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1840,7 +1840,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_RELU6_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1853,7 +1853,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_RELU_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1866,7 +1866,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_RELU_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1879,7 +1879,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_RESHAPE_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1892,7 +1892,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_SOFTMAX_Q15_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1905,7 +1905,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_SOFTMAX_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1918,7 +1918,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_SOFTMAX_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1931,7 +1931,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_SOFTMAX_U8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1944,7 +1944,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_SOFTMAX_WITH_BATCH_Q7_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1957,7 +1957,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_SVDF_S8_C&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1970,7 +1970,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_VEC_MATH_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1983,7 +1983,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;ARM_VEC_MATH_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -1996,7 +1996,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;BASIC_MATH_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2009,7 +2009,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;BASIC_MATH_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2022,7 +2022,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;BAYES_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2035,7 +2035,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;BAYES_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2047,7 +2047,7 @@
          <value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;cmsis&gt;
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_DSP_ENABLE&quot;&gt;
     &lt;Values dnOrder=&quot;0&quot;&gt;
-      &lt;User dnOrder=&quot;0&quot; value=&quot;false&quot;/&gt;
+      &lt;User dnOrder=&quot;0&quot; value=&quot;true&quot;/&gt;
     &lt;/Values&gt;
   &lt;/cmsis&gt;
 &lt;/cmsis&gt;
@@ -2059,7 +2059,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_DSP_INCLUDE_DIRS&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2072,7 +2072,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_DSP_LIB_cortexM7lfdp&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2085,7 +2085,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_DSP_XC32CPP_INCLUDE_DIRS&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2097,7 +2097,7 @@
          <value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;cmsis&gt;
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_NN_ENABLE&quot;&gt;
     &lt;Values dnOrder=&quot;0&quot;&gt;
-      &lt;User dnOrder=&quot;0&quot; value=&quot;false&quot;/&gt;
+      &lt;User dnOrder=&quot;0&quot; value=&quot;true&quot;/&gt;
     &lt;/Values&gt;
   &lt;/cmsis&gt;
 &lt;/cmsis&gt;
@@ -2109,7 +2109,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_NN_INCLUDE_DIRS&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2122,7 +2122,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CMSIS_NN_XC32CPP_INCLUDE_DIRS&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2135,7 +2135,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;COMPLEX_MATH_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2148,7 +2148,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;COMPLEX_MATH_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2161,7 +2161,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CONTROLLER_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2174,7 +2174,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;CONTROLLER_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2187,7 +2187,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;DISTANCE_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2200,7 +2200,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;DISTANCE_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2213,7 +2213,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;FAST_MATH_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2226,7 +2226,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;FAST_MATH_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2239,7 +2239,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;FILTERING_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2252,7 +2252,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;FILTERING_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2265,7 +2265,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;INTERPOLATION_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2278,7 +2278,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;INTERPOLATION_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2291,7 +2291,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;MATRIX_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2304,7 +2304,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;MATRIX_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2317,7 +2317,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;NONE_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2330,7 +2330,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;QUATERNION_MATH_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2343,7 +2343,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;STATISTICS_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2356,7 +2356,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;STATISTICS_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2369,7 +2369,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;SUPPORT_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2382,7 +2382,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;SUPPORT_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2395,7 +2395,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;SVM_DEFINES_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2408,7 +2408,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;SVM_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2421,7 +2421,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;SVM_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2434,7 +2434,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;TRANSFORM_FUNCTIONS_F16_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2447,7 +2447,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;TRANSFORM_FUNCTIONS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -2460,7 +2460,7 @@
   &lt;cmsis dnOrder=&quot;0&quot; id=&quot;UTILS_H&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/cmsis&gt;
@@ -7903,7 +7903,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/ADD.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7916,7 +7916,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/ADD.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7929,7 +7929,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/CONV.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7942,7 +7942,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/DEPTHWISE_CONV.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7955,7 +7955,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/FULLY_CONNECTED.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7968,7 +7968,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/MUL.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7981,7 +7981,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/POOLING.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -7994,7 +7994,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/SOFTMAX.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8007,7 +8007,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CMSIS_NN/SVDF.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8020,7 +8020,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/CONV.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8033,7 +8033,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/DEPTHWISE_CONV.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8046,7 +8046,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/FULLY_CONNECTED.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8059,7 +8059,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/MUL.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8072,7 +8072,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/POOLING.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8085,7 +8085,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/SOFTMAX.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8098,7 +8098,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;../TFLITE-MICRO/TENSORFLOW/LITE/MICRO/KERNELS/SVDF.CC&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8119,7 +8119,7 @@
          <value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;tflite-micro&gt;
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;TFLITE_USES_CMSIS_NN&quot;&gt;
     &lt;Values dnOrder=&quot;0&quot;&gt;
-      &lt;User dnOrder=&quot;0&quot; value=&quot;false&quot;/&gt;
+      &lt;User dnOrder=&quot;0&quot; value=&quot;true&quot;/&gt;
     &lt;/Values&gt;
   &lt;/tflite-micro&gt;
 &lt;/tflite-micro&gt;
@@ -8176,7 +8176,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;XC32CPP_TFLITE_CMSIS_NN_MACRO&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8189,7 +8189,7 @@
   &lt;tflite-micro dnOrder=&quot;0&quot; id=&quot;XC32_TFLITE_CMSIS_NN_MACRO&quot;&gt;
     &lt;Attributes dnOrder=&quot;0&quot;&gt;
       &lt;Boolean dnOrder=&quot;0&quot; id=&quot;enabled&quot;&gt;
-        &lt;Value dnOrder=&quot;0&quot;&gt;false&lt;/Value&gt;
+        &lt;Value dnOrder=&quot;0&quot;&gt;true&lt;/Value&gt;
       &lt;/Boolean&gt;
     &lt;/Attributes&gt;
   &lt;/tflite-micro&gt;
@@ -8477,6 +8477,482 @@
       <entry>
          <file>..\src\packs\CMSIS\CMSIS\Core\Include\mpu_armv7.h</file>
          <hash>de1b5eb9ed566527b66dc06f4ecb6a43ab6800f7dac47e87c9cb42984dca41bb</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_common_tables.h</file>
+         <hash>c0bdf5ecbc6830aa8b7c1a19b5fcfb49c96de2aeac361ea4f582948f60624beb</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_common_tables_f16.h</file>
+         <hash>5c422abd8c7f51f16af1e8d0541436ef79508f4248eca5ec89fbe4948dc11af1</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_const_structs.h</file>
+         <hash>ba8a53a1547cc09350f72a6ccbf96f9d89d30540d2d0d94d1c1bc655cfa912de</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_const_structs_f16.h</file>
+         <hash>5c87f95eea58366108193174123472408f503c156736e074197e611d4a5526ff</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_helium_utils.h</file>
+         <hash>fec0ac98600832fa1256dcada168ee08648db668c982e2727b24eb9e98203344</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_math.h</file>
+         <hash>342e24e1a8d0ae1ca71c9e3d487623c827e9cd00292b023b628c228e81d1e892</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_math_f16.h</file>
+         <hash>2c8a074e35a193cba14bc09bfa6107e7572a21e6fa2ab3c40347208e0db8d764</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_math_memory.h</file>
+         <hash>bfb3079daaf9627f91a3af7b0fe3d8b543058238fc3efab0b703edc5cf5f87d7</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_math_types.h</file>
+         <hash>c7f68e2e6154749c65fa68f0b436fe4f5d147155935dd63065305be5bde1d958</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_math_types_f16.h</file>
+         <hash>68e41af22af1d577b15f36303fef65d462c67d380c8849f1f0f5e82c3db18a54</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_mve_tables.h</file>
+         <hash>809eb106554500a785689a2b312be55f6d307071daab5e48d3e5836fbf85b378</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_mve_tables_f16.h</file>
+         <hash>6da98ec18a998f26005ec31aa53662a14ccfb10bd15783db518be4e79c377f70</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_vec_math.h</file>
+         <hash>57de9535136ad7941657aabe121e3447667db89b12f158080cb5a02da3066648</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\arm_vec_math_f16.h</file>
+         <hash>27ff532acc0d63a8171464ffce4a5b3dd78089d1f7433b0fbfeab7b0d977a0bd</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\basic_math_functions.h</file>
+         <hash>5d1fdf81e1a6d9aa14a8ce90a19a8842f903a8344d15b8bc6b306d3d9acc1907</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\basic_math_functions_f16.h</file>
+         <hash>b3e36662adad04ac78e5d32aa1800d2d40804bd702194b0ec5fa9a471d68c3f8</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\bayes_functions.h</file>
+         <hash>afb150248859e476cbd034e676d690da084334db42777956ef402a196ab9ebba</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\bayes_functions_f16.h</file>
+         <hash>aaf0fe578f406f36b745fcd4b2697021b0a4a7d304ad74bad114a368140a0f25</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\complex_math_functions.h</file>
+         <hash>86a0ce0ab2b6830d0e79a8d084acd6ad293341b4ed57708f8d9696af15ea8847</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\complex_math_functions_f16.h</file>
+         <hash>d02da70756e8c0ab132dfaedd1cb719c8e8548ef94bbb752667f4532a21ca46f</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\controller_functions.h</file>
+         <hash>dcefd6c31113c837ab88ef37ece45ec50627def64a74fa99319fcf7ab42f3656</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\controller_functions_f16.h</file>
+         <hash>b5eefa08eff567d725028aeea2be349b54da591133974a8b827ee75c566583cb</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\distance_functions.h</file>
+         <hash>c806f8ad8b9749a4190f800af97cdcda10aeaa37d7440c1d76b87b021f0a1c50</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\distance_functions_f16.h</file>
+         <hash>714ac874439448e3afa3a8e8f19c4663fcd41720e99e7d08efed460f6f944bf3</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\fast_math_functions.h</file>
+         <hash>725f6d6c922706695a3179f942aa284d5d7ec6730aafe4e334ff74fae70900e0</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\fast_math_functions_f16.h</file>
+         <hash>f8077bc4582721e9df0ceda08006eb2cbfad57422c91556d5f87362597d416a4</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\filtering_functions.h</file>
+         <hash>b6ad7bb3bbf5b1804a9d2c731a7b13041b9018968d5ac50dece3268d8d75451f</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\filtering_functions_f16.h</file>
+         <hash>31e814d5128fabb029764ec1d23539291107274e972e60920cdbdd00109e8d65</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\interpolation_functions.h</file>
+         <hash>18f49c689fc59bd7f292247705d5bfb126424ced8929afc987100a6f0512252b</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\interpolation_functions_f16.h</file>
+         <hash>b91322a5827838e57fc546a69d57b52a7369470e2b7459e6a8e68455e2c1d9da</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\matrix_functions.h</file>
+         <hash>8c80e507e6192fa876faaefda30fd03989ecfd7a522725bcc7e4e5289b3bcb00</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\matrix_functions_f16.h</file>
+         <hash>8773cffd28c3c5003d8e0acb7f1758ae1fb3c14145829561e00bb26d44ba9104</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\none.h</file>
+         <hash>af040773f7065d4c0ca0dd6c55bb44f935f7b7e2e95ecf9de7c27a7cf2842e94</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\quaternion_math_functions.h</file>
+         <hash>732c930dc7b1b267ad600881b29148281bbbaf25d95aeda57a6fb3a5e2f7f5bb</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\statistics_functions.h</file>
+         <hash>a0da78b44b4a3352fcd909f265a36bee296ca1c9cb7899cb6bbb7654eed05af1</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\statistics_functions_f16.h</file>
+         <hash>c876809b9f10a9940583eedc71f3e350c363003ca8a5005914f270fbf16e7437</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\support_functions.h</file>
+         <hash>57ae591da77d004a7ffe6c4db9432358749e144d68198e5f382de4876bc66599</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\support_functions_f16.h</file>
+         <hash>94639d62f132bb9250f319c59e53409a85ec4c57d118c39afd88bf602e5dae78</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\svm_defines.h</file>
+         <hash>8d264f69ee0d5cbf301da0a0638896f8943fe6932eb529698948e03296e57a38</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\svm_functions.h</file>
+         <hash>2095c8a9408111b9d777c06fdaf41b566aee3818d749117fbac2c1b4e0407df3</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\svm_functions_f16.h</file>
+         <hash>8925b52eaeeecf1c20f71e82279e22b0330e87cb7077851664127117abfd3479</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\transform_functions.h</file>
+         <hash>36f2bd114d95d5106c61305cb1fd9eef68d3136c47635bdb44736a8c17ab51ac</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\transform_functions_f16.h</file>
+         <hash>c8109d9d629eeab7668093cbccc24c4ff13febab57fafe2bb7077d4c5714705e</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Include\dsp\utils.h</file>
+         <hash>376acc1758aec699cb7245ab8ac412f6686beca6d06574ccca7303dd043e57af</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\DSP\Lib\GCC\libarm_cortexM7lfdp_math.a</file>
+         <hash>3c4078946b7209a07db5815eb758999c4d6061b150681281f5ce43248b5610e0</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Include\arm_nn_tables.h</file>
+         <hash>e7945be2b92950b517fb58fc940a27b5a216f62c9feda62d4c0669b7de19078a</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Include\arm_nn_types.h</file>
+         <hash>2d405dff4e2bd6da879dbf3b1ee098b29c8529fce67c9b7a93c28803c265d0db</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Include\arm_nnfunctions.h</file>
+         <hash>80aa02a09cf45fb65a112ef5111b7279de2004efcdf0915e1fc82552b6552670</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Include\arm_nnsupportfunctions.h</file>
+         <hash>45defbe58c19192d57fd983274c2038a8b61dbbc0a5be506a434b1515071a38d</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ActivationFunctions\arm_nn_activations_q15.c</file>
+         <hash>51177db14e7bd3ae59cd3b7511333541b3a446ee08b1db252669105aa00f947f</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ActivationFunctions\arm_nn_activations_q7.c</file>
+         <hash>beb4c1ec83c9d85ad1ec0c699454d9e8512ada90cdafeab00516edd73085cbec</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ActivationFunctions\arm_relu6_s8.c</file>
+         <hash>89053df3580aaad816f22da248b0de2af55481fc4cef6da56d0262bb488bf828</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ActivationFunctions\arm_relu_q15.c</file>
+         <hash>ac63f86594a516c4048202be2f0469e248cc591043317f738e7af8109578deef</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ActivationFunctions\arm_relu_q7.c</file>
+         <hash>d458217e197148fe7482f4b22f67908cde626e68a047bbf7e318c2c1f7305412</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\BasicMathFunctions\arm_elementwise_add_s8.c</file>
+         <hash>4d50f70945914ded85f8e91befbf3d23d5957a5fa2f3027f9d7abec6703b3dd0</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\BasicMathFunctions\arm_elementwise_mul_s8.c</file>
+         <hash>68b29c10c4a06001368e4900e235f75572cac130b77ecb4e0e69c49c15169e8a</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConcatenationFunctions\arm_concatenation_s8_w.c</file>
+         <hash>6f24a180af3fce84b2b405f53f2c31c3f6cb0367a2bff1f246e5a6e91f66e039</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConcatenationFunctions\arm_concatenation_s8_x.c</file>
+         <hash>23885f57ea348b5d48fa62c91ab3c65275ebdf9e50e79fe47f6f60091ee014da</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConcatenationFunctions\arm_concatenation_s8_y.c</file>
+         <hash>1e40e89687eba7961bb9e24c16134298b743c19c6fcabdb3db6ad1cf47d490e5</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConcatenationFunctions\arm_concatenation_s8_z.c</file>
+         <hash>8eb4d7b2f5d5f6621468442d505e12c3bc98af3f28faa77916e13080a716d458</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_1_x_n_s8.c</file>
+         <hash>468aef1504def68f055ae0ec55448e2926709995aa47868021ecf3694b0deb44</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_1x1_HWC_q7_fast_nonsquare.c</file>
+         <hash>b1b450c3648548b4563d3b086facf9636f94b05b7f8daecb6f766cd11d8b7a51</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_1x1_s8_fast.c</file>
+         <hash>b6299bdc93545d49ee08788cc6540f2fa3acb9ffb090ad6cae4eb1d1f8527718</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q15_basic.c</file>
+         <hash>31ee3f07cf0d420edf5a3cf3881ed4325aa0a5a7851a18df7e2e97e48b505f00</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q15_fast.c</file>
+         <hash>ab56fb35989de8adda528af7b1418e859fe8869e522f4d7f0fc6a51d9ba09b6f</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q15_fast_nonsquare.c</file>
+         <hash>eb1c4806a3c0622012b4009bff822af04f8f6ef83385fd31d9e74528ad0ddff0</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q7_RGB.c</file>
+         <hash>01d06d71e631f585c00180dd05d55ff4bdede632aef8b6b5707c81ffcb7367dc</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q7_basic.c</file>
+         <hash>8562a79e5839cfff1a4212cded4b191719786be7f5c6e37febc040b231259065</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q7_basic_nonsquare.c</file>
+         <hash>e7b6cd0c0b84c30507e9f2cd7faf30bc36001c636b7018e0577d9c13ad484b83</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q7_fast.c</file>
+         <hash>b82ac8d926eb2779b6523eb23fe019adaeebbd59bc6e91b4fc5195e1324c1c99</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_HWC_q7_fast_nonsquare.c</file>
+         <hash>538fe0a6dc3e3e9ccf6e211abb05600a7d330e4eb216d3d92265beaf6eede385</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_s8.c</file>
+         <hash>f059091a8bfbbbc0c8da235e309107a8efdbb8c8f5b16ed0e3467f5308b95fd3</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_convolve_wrapper_s8.c</file>
+         <hash>a11cea42a2844a5f143b89952f4e65163c053d91e056e566a40a6feb91a80e56</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_conv_3x3_s8.c</file>
+         <hash>1160fa6733930bebc3ecb6c9901a372e337a1ecf31709d779f41e9fd1e0f3ff9</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_conv_s8.c</file>
+         <hash>a85953856a02bbc1c24e345b162091b77b075caceceebc02887a06186ada44a2</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_conv_s8_opt.c</file>
+         <hash>de27c9c3a4f2b7b3fa0d784a83ea9ce47b956308f0a23a09d855abc8647d5198</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_conv_u8_basic_ver1.c</file>
+         <hash>1054795f0b7372cd48d866bb8faba051f69564575140a55c7c4e6f6a9779454e</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_conv_wrapper_s8.c</file>
+         <hash>e03b4d256eef1f6bb2f2e2ff317b30598a084a5c9b09fc2032b1684c40144de9</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_separable_conv_HWC_q7.c</file>
+         <hash>7665f74df238285f6c179234caabdde0f42b2d1bb2117318e71edeb6262d5c86</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_depthwise_separable_conv_HWC_q7_nonsquare.c</file>
+         <hash>b58ea2b6d2932aa5ce6f27e2470a51e20decd8c7b5731861b6291f56c5a0db5a</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_nn_depthwise_conv_s8_core.c</file>
+         <hash>05e4b1df41644500284e5c36ce18e03ba4f21415f3ffcd982fb025b72aa09848</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_nn_mat_mult_kernel_q7_q15.c</file>
+         <hash>be5101467f9c055e8963a02114d10ffbfb9fce3166c7c7569979e06bbeef6be0</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_nn_mat_mult_kernel_q7_q15_reordered.c</file>
+         <hash>8f9063b1cf2e2a0c581331539cb2c622dcee8309b0b13bf36c2a6941d4c3dbb9</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_nn_mat_mult_kernel_s8_s16.c</file>
+         <hash>77ec82c23854224d54388d352a3fb14c06bff00e9c179967262b19a2564df2cf</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_nn_mat_mult_kernel_s8_s16_reordered.c</file>
+         <hash>1286eef06268fee59beb76994e9567eb65689fa50db8f349ac2fa56ab0e97c02</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ConvolutionFunctions\arm_nn_mat_mult_s8.c</file>
+         <hash>71b569d4051b5582173250acf74c6a310b87244c76d0182f1cdf03ad5eb8d98c</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_mat_q7_vec_q15.c</file>
+         <hash>3dcef09912a925699475ada860bbeb96af5b1e97a676494e5df6d441a889e8ab</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_mat_q7_vec_q15_opt.c</file>
+         <hash>3bd331592bb56a6d5bb5d2f582746fbe52f31f2ebc6c3706fb12f98494b0ad7d</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_q15.c</file>
+         <hash>f05e8588b24d936c685418eb56bb91af827da772ad93e86511c0c6127f06f082</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_q15_opt.c</file>
+         <hash>c38d3d305c94bc4f19d3ae63a77b7127e4f9d0d6b0d9aadce6a37452da5a6e91</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_q7.c</file>
+         <hash>d010a200031d2d3bb08a4c8c6f2a9c911504bc1fdd9bc9cf5c52c01042ad6009</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_q7_opt.c</file>
+         <hash>a86c5ef5e3b643838b76c2da1ede71d683fe0a32dc8d00682aea2ec0274c71a5</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\FullyConnectedFunctions\arm_fully_connected_s8.c</file>
+         <hash>ce4dbbe87ee9ace0ba60e638e82f7c6d7d62bac56de30a46721cd3cec74ecf1f</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_accumulate_q7_to_q15.c</file>
+         <hash>383d277f8ce925ccb654b14c839e1c488fd7aa75f22e2f1700bd53cc62bb3a9c</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_add_q7.c</file>
+         <hash>264462dbbe36c9480e230cbc98e6f8f4e8c5f11d786d30cb594f117c3f7bdb7d</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_depthwise_conv_nt_t_padded_s8.c</file>
+         <hash>d045b4c2f1793f9286fbb4dbb226f1afc1108d1378275b04bd0036fb81deb82c</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_depthwise_conv_nt_t_s8.c</file>
+         <hash>a6f23473f4b0d172a787aab5cb18a9002f8b56b80a00c891c89569103dade1ed</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_mat_mul_core_1x_s8.c</file>
+         <hash>a8e25be06a646fd2256b282c6da5d393709efe6ca7312367d88a6131afb2422f</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_mat_mul_core_4x_s8.c</file>
+         <hash>6ed4e84b5e28c825a3a1ce8330f80b2aaa905542d532bba658522d51d8cbc1ef</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_mat_mult_nt_t_s8.c</file>
+         <hash>00ac7e6635ce321bd7b6903f6d3b51e00f88a75abeefd37fb2247826b61c940b</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_mult_q15.c</file>
+         <hash>e46f7e8b306e0e97eb7c87b1a3dc267c06fd8f570cd865cd74174f0aced306a7</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_mult_q7.c</file>
+         <hash>2885e8108f3c714360e2757de22f8d6d2fadba119da7852f0f115a2834eb79a9</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_vec_mat_mult_t_s8.c</file>
+         <hash>08cf1a75812d6001fce47b1c10b7deeb94c9ad7c2d36cf8cf0b1a902ee01e234</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nn_vec_mat_mult_t_svdf_s8.c</file>
+         <hash>3adede66c3d002228bed999f02648160f9d412181d7e6021b30c19981ee3c32e</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_nntables.c</file>
+         <hash>49d2a791d00b148a8ecf48efe9b329f2b53e79a677bc162cab309eb2cb326a4b</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_q7_to_q15_no_shift.c</file>
+         <hash>bef8d7a3acb06b2ad5548e55caff6dc251c2ebfbe972c02b64fb2d6c2c5be9ad</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_q7_to_q15_reordered_no_shift.c</file>
+         <hash>8014e1176c7bf0ad672c8b2d673de53bbc6d74c70e9776b9253a6d5f5b6f7963</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_q7_to_q15_reordered_with_offset.c</file>
+         <hash>9fd96210f2cc84c7beec89ff1730d9bbf76506f793d87530d972b023c535bdfa</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\NNSupportFunctions\arm_q7_to_q15_with_offset.c</file>
+         <hash>9af45bcaca649a3936fb5c5215cb8f51773bf3e11a97ff2fdac1ed12ea6ba634</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\PoolingFunctions\arm_avgpool_s8.c</file>
+         <hash>5720252acb9985295f8d4a85cbcd57a2706939e6ddb464e94c9b5411ec2117bd</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\PoolingFunctions\arm_max_pool_s8.c</file>
+         <hash>1b339932e7f4ab3f4e306057d7b4098d28fad6484614b28d211132a6cd276ffe</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\PoolingFunctions\arm_pool_q7_HWC.c</file>
+         <hash>36542b135e57a63e6859a28ba170f33561627532ec11dc376b76a843670f77f8</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\ReshapeFunctions\arm_reshape_s8.c</file>
+         <hash>8d0df7fa830cadbbed3dbc111de0de09d5e6cd80c9b9f9b172114a5c4f7cc6c3</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\SVDFunctions\arm_svdf_s8.c</file>
+         <hash>0a4009c78968a226f532bdffa1faa774a01c31debd0905f5bcda1d2b47f9480c</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\SoftmaxFunctions\arm_softmax_q15.c</file>
+         <hash>ba17bdfad5249e18bbaa264c3e10e797890af91a0872fb5be131abc5989a53b7</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\SoftmaxFunctions\arm_softmax_q7.c</file>
+         <hash>f3394924fc0f03815bf23db8cfa66aad8545f9bbc025c2159fa6bbdbdd2ffea8</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\SoftmaxFunctions\arm_softmax_s8.c</file>
+         <hash>42f3b14bbdfb9cc3c156cda91b39edc67c36f9c0f6562f4e8328d1810ad5941b</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\SoftmaxFunctions\arm_softmax_u8.c</file>
+         <hash>9b0df20b4cce0d9a441fbc15a451af20726135bb0c0522f452df6b414dc8c208</hash>
+      </entry>
+      <entry>
+         <file>..\src\packs\CMSIS\CMSIS\NN\Source\SoftmaxFunctions\arm_softmax_with_batch_q7.c</file>
+         <hash>349cf399908144563cbce1f9ea9f8716abab32d571cc5d1474c6947182b1bc6c</hash>
       </entry>
       <entry>
          <file>..\src\packs\PIC32CZ8110CA80208_DFP\component\ac.h</file>
@@ -9431,10 +9907,6 @@
          <hash>9e1d85efd58a620aea696a263a89400438f8a4a662ca178ae9ce9be3fd5b8fb8</hash>
       </entry>
       <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\add.cpp</file>
-         <hash>f193fb9a4fa53326ed54992c509bda7ae9d04242f585135911a4dfdbf4c87267</hash>
-      </entry>
-      <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\add.h</file>
          <hash>3be6ec073f52349d7961e93b1e9482321a50ef317b4e80f4da41bc3a49a34480</hash>
       </entry>
@@ -9483,16 +9955,44 @@
          <hash>86086320ffdcc8c5a6df77bba5b553555d0423c5eaed007388b8c6f10e0c1084</hash>
       </entry>
       <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\add.cpp</file>
+         <hash>dd9e705195f9eacaa2c227f761444352ab4c512b4d005b8678c933da366d657e</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\conv.cpp</file>
+         <hash>5c76711711c84d39fd8d9a13d3fef8147d8ebf9de1fcc29d4d4065c90d63789d</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\depthwise_conv.cpp</file>
+         <hash>234a19ce4608b42ff8e163b50f59fe7e63b9146bd408c567b6a15048ce3adcf9</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\fully_connected.cpp</file>
+         <hash>f770f5ab894f6d62825901077afa698075a22706c15d7cacadde1240d6dce653</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\mul.cpp</file>
+         <hash>6c41d565abd70bd69b32a413815c866181d1cfd847938ed511e61f88c22982f9</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\pooling.cpp</file>
+         <hash>ba47cc7ee41c06e07d0ba26e82bc2314a0ce60ffe2bb2c805e801341ca103599</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\softmax.cpp</file>
+         <hash>20861ab67fc299aac13806a0819fb2bb747b92bad41eddaacdb3db4753a32361</hash>
+      </entry>
+      <entry>
+         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\cmsis_nn\svdf.cpp</file>
+         <hash>2b7a8363503707b312950e6dbd332366922bd2932ed716b6c958571f2bdb8b52</hash>
+      </entry>
+      <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\comparisons.cpp</file>
          <hash>6c4088579a3d5439966518ae2eb90199de3694e62198fe5d0da9be3e5ffc1ac7</hash>
       </entry>
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\concatenation.cpp</file>
          <hash>5014f1709ed08c02c52b5d619a891fe731fa0b22151c9b2c73228c2fd76a2f44</hash>
-      </entry>
-      <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\conv.cpp</file>
-         <hash>9db3884851d0827d191fa477e433a24b68bf3a7e2ddf814c11cc59af72e4d6c5</hash>
       </entry>
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\conv.h</file>
@@ -9509,10 +10009,6 @@
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\depth_to_space.cpp</file>
          <hash>a6f03f110611ff52b544adb3419fed733789e937fe348f744b4f1858a194fe99</hash>
-      </entry>
-      <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\depthwise_conv.cpp</file>
-         <hash>16cf32e046056b5d3e0caab7da87f48ee65d3d0d189feac87916f76687ffb649</hash>
       </entry>
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\depthwise_conv.h</file>
@@ -9573,10 +10069,6 @@
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\floor_mod.cpp</file>
          <hash>7a83193e87e1fcc961b35eddf9111f14663837ed2e75950ffedc7824b337514d</hash>
-      </entry>
-      <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\fully_connected.cpp</file>
-         <hash>e1f22111cd389a60c384386015a34b861fbd817ba2b0dec391b75a0461e14e22</hash>
       </entry>
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\fully_connected.h</file>
@@ -9679,10 +10171,6 @@
          <hash>4f5617065f10da36d2e06bead3dd8599cf210f986756dea5f8621c798ae56612</hash>
       </entry>
       <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\mul.cpp</file>
-         <hash>38ee637da2a89a8577d80b1c47b600cb8f76d450408d3afd97676d52cb5fcff1</hash>
-      </entry>
-      <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\mul.h</file>
          <hash>bf74a99b67939da5ae6cadd201819958d47ae685ba490bbe58e7107dca20d3a8</hash>
       </entry>
@@ -9701,10 +10189,6 @@
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\pad.cpp</file>
          <hash>43beffa0c604886d380223cae3696844997863ee151cf863849599d0639eb4c5</hash>
-      </entry>
-      <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\pooling.cpp</file>
-         <hash>8eeb646274822ba40a5de4f47129cc689e3ddf18c82d53c35816743bdfdc07d8</hash>
       </entry>
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\pooling.h</file>
@@ -9771,10 +10255,6 @@
          <hash>b7fd22e0a4cfaadb3ab6d9ba261234b2e51f6e4387fe9e7b85f8b6d7ac219752</hash>
       </entry>
       <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\softmax.cpp</file>
-         <hash>40e5980b41f25c51dc6acb1aa801d46107c521cf7aa84e31adef8b9d91f0b924</hash>
-      </entry>
-      <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\softmax.h</file>
          <hash>572585c01bd2921ec9a5de774c074379ca93111045bd81728ee90144c5b4674b</hash>
       </entry>
@@ -9817,10 +10297,6 @@
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\sub_common.cpp</file>
          <hash>d1d142550fd23d8694eb83ed1bba959fdde682dd1a76825023503bfe176a9355</hash>
-      </entry>
-      <entry>
-         <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\svdf.cpp</file>
-         <hash>eabd22ff21580a15e22207c4ce0925dc57cdcf3016318ec562b1a5f0d1a69aad</hash>
       </entry>
       <entry>
          <file>..\src\third_party\tflite-micro\tensorflow\lite\micro\kernels\svdf.h</file>

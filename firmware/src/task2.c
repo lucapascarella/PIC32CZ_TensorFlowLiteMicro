@@ -145,7 +145,7 @@ void TASK2_Tasks ( void )
         
         /* Work done by task2 for 10 ticks */
         timeNow = xTaskGetTickCount();
-        while ((xTaskGetTickCount() - timeNow) < 10);
+        while ((xTaskGetTickCount() - timeNow) < 100);
         
         /* Task2 is exiting (->) now */
         xSemaphoreTake(uartMutexLock, portMAX_DELAY);        
@@ -153,7 +153,7 @@ void TASK2_Tasks ( void )
         xSemaphoreGive(uartMutexLock);   
         
         /* Run the task again after 250 msec */
-        vTaskDelay(250 / portTICK_PERIOD_MS );        
+        vTaskDelay(2500 / portTICK_PERIOD_MS );        
     }
 }
 

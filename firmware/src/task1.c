@@ -152,7 +152,7 @@ void TASK1_Tasks ( void )
 
         /* Work done by task1 for 100 ticks */
         timeNow = xTaskGetTickCount();
-        while ((xTaskGetTickCount() - timeNow) < 100);
+        while ((xTaskGetTickCount() - timeNow) < 1000);
 
         /* Task1 is exiting (->) now */
         xSemaphoreTake(uartMutexLock, portMAX_DELAY);
@@ -160,7 +160,7 @@ void TASK1_Tasks ( void )
         xSemaphoreGive(uartMutexLock);
 
         /* Let idle task run for some time*/
-        vTaskDelay(10 / portTICK_PERIOD_MS );
+        vTaskDelay(100 / portTICK_PERIOD_MS );
     }
 }
 
