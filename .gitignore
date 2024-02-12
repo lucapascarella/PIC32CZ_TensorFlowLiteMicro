@@ -1,0 +1,70 @@
+# Exclude folders and sub-folders for each project
+/firmware/pic32cz_ca80_curiosity_ultra.X/build
+/firmware/pic32cz_ca80_curiosity_ultra.X/debug
+/firmware/pic32cz_ca80_curiosity_ultra.X/dist/
+/firmware/pic32cz_ca80_curiosity_ultra.X/nbproject/*
+/firmware/pic32cz_ca80_curiosity_ultra.X/.generated_files
+!/firmware/pic32cz_ca80_curiosity_ultra.X/nbproject/configurations.xml
+!/firmware/pic32cz_ca80_curiosity_ultra.X/nbproject/project.xml
+
+# Harmony backup files
+firmware/pic32cz_ca80_curiosity_ultra.X/StdEth.mc3.*
+
+# MPLAB-X logging and stuff
+/firmware/pic32cz_ca80_curiosity_ultra.X/defmplabxtrace.log
+/firmware/pic32cz_ca80_curiosity_ultra.X/defmplabxtrace.log.inx
+/firmware/pic32cz_ca80_curiosity_ultra.X/mcc-manifest-autosave.yml
+/firmware/pic32cz_ca80_curiosity_ultra.X/mcc-manifest-generated-success.yml
+
+# Auto generate files
+src/web_pages/*
+src/mpfs_net_img.c
+src/mpfs_net_img.bin
+src/http_net_print.c
+src/http_net_print.idx
+src/http_net_print.h
+src/custom_http_net_app.c
+src/app.c
+src/app.h
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+
+# Others
+*.d
+*.map
+*.zip
+*.bin
+*.o.d.tmp
+*.mk
