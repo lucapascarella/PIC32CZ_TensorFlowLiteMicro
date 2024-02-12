@@ -1,0 +1,6 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: BSP_PIC32CZ_CA80_Curiosity_Ultra, bsp: 'true'}
+children:
+- type: ElementPosition
+  attributes: {x: '440', y: '20', id: BSP_PIC32CZ_CA80_Curiosity_Ultra}
